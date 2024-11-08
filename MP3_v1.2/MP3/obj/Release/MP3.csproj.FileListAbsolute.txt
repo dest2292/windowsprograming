@@ -1,0 +1,9 @@
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\bin\Release\MP3.exe.config
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\bin\Release\MP3.exe
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\bin\Release\MP3.pdb
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Release\MP3.Form1.resources
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Release\MP3.Properties.Resources.resources
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Release\MP3.csproj.GenerateResource.cache
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Release\MP3.csproj.CoreCompileInputs.cache
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Release\MP3.exe
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Release\MP3.pdb

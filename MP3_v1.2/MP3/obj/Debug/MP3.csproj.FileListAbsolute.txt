@@ -1,0 +1,68 @@
+c:\users\user\documents\visual studio 2015\Projects\MP3\MP3\bin\Debug\MP3.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MP3\MP3\bin\Debug\MP3.exe
+c:\users\user\documents\visual studio 2015\Projects\MP3\MP3\bin\Debug\MP3.pdb
+c:\users\user\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.exe
+c:\users\user\documents\visual studio 2015\Projects\MP3\MP3\obj\Debug\MP3.pdb
+D:\YDJ\App\MP3 Player\MP3_1.0\MP3\bin\Debug\MP3.exe.config
+D:\YDJ\App\MP3 Player\MP3_1.0\MP3\obj\Debug\MP3.exe
+D:\YDJ\App\MP3 Player\MP3_1.0\MP3\obj\Debug\MP3.pdb
+D:\YDJ\App\MP3 Player\MP3_1.0\MP3\bin\Debug\MP3.exe
+D:\YDJ\App\MP3 Player\MP3_1.0\MP3\bin\Debug\MP3.pdb
+D:\YDJ\App\MP3 Player\MP3_1.0\MP3\obj\Debug\MP3.csprojResolveAssemblyReference.cache
+D:\YDJ\App\MP3 Player\MP3_1.0\MP3\obj\Debug\MP3.Form1.resources
+D:\YDJ\App\MP3 Player\MP3_1.0\MP3\obj\Debug\MP3.Properties.Resources.resources
+D:\YDJ\App\MP3 Player\MP3_1.0\MP3\obj\Debug\MP3.csproj.GenerateResource.Cache
+D:\YDJ\App\MP3 Player\MP3_v1.0\MP3\bin\Debug\MP3.exe.config
+D:\YDJ\App\MP3 Player\MP3_v1.0\MP3\obj\Debug\MP3.exe
+D:\YDJ\App\MP3 Player\MP3_v1.0\MP3\obj\Debug\MP3.pdb
+D:\YDJ\App\MP3 Player\MP3_v1.1\MP3\bin\Debug\MP3.exe.config
+D:\YDJ\App\MP3 Player\MP3_v1.1\MP3\obj\Debug\MP3.exe
+D:\YDJ\App\MP3 Player\MP3_v1.1\MP3\obj\Debug\MP3.pdb
+D:\YDJ\App\MP3 Player\MP3_v1.1\MP3\bin\Debug\MP3.exe
+D:\YDJ\App\MP3 Player\MP3_v1.1\MP3\bin\Debug\MP3.pdb
+D:\YDJ\App\MP3 Player\MP3_v1.1\MP3\obj\Debug\MP3.csprojResolveAssemblyReference.cache
+D:\YDJ\App\MP3 Player\MP3_v1.1\MP3\obj\Debug\MP3.Form1.resources
+D:\YDJ\App\MP3 Player\MP3_v1.1\MP3\obj\Debug\MP3.Properties.Resources.resources
+D:\YDJ\App\MP3 Player\MP3_v1.1\MP3\obj\Debug\MP3.csproj.GenerateResource.Cache
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.1\MP3\bin\Debug\MP3.exe.config
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.1\MP3\bin\Debug\MP3.exe
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.1\MP3\bin\Debug\MP3.pdb
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.1\MP3\obj\Debug\MP3.Form1.resources
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.1\MP3\obj\Debug\MP3.Properties.Resources.resources
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.1\MP3\obj\Debug\MP3.csproj.GenerateResource.cache
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.1\MP3\obj\Debug\MP3.csproj.CoreCompileInputs.cache
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.1\MP3\obj\Debug\MP3.exe
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.1\MP3\obj\Debug\MP3.pdb
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\bin\Debug\MP3.exe.config
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\bin\Debug\MP3.exe
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\bin\Debug\MP3.pdb
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Debug\MP3.Form1.resources
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Debug\MP3.Properties.Resources.resources
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Debug\MP3.csproj.GenerateResource.cache
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Debug\MP3.csproj.CoreCompileInputs.cache
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Debug\MP3.exe
+D:\YDJ\Development\Software Develop\MP3Player\MP3_v1.2\MP3\obj\Debug\MP3.pdb
+D:\YDJ\Development\Software Develop\MP3Player(winmm.dll)\MP3_v1.2\MP3\bin\Debug\MP3.exe.config
+D:\YDJ\Development\Software Develop\MP3Player(winmm.dll)\MP3_v1.2\MP3\bin\Debug\MP3.exe
+D:\YDJ\Development\Software Develop\MP3Player(winmm.dll)\MP3_v1.2\MP3\bin\Debug\MP3.pdb
+D:\YDJ\Development\Software Develop\MP3Player(winmm.dll)\MP3_v1.2\MP3\obj\Debug\MP3.csprojAssemblyReference.cache
+D:\YDJ\Development\Software Develop\MP3Player(winmm.dll)\MP3_v1.2\MP3\obj\Debug\MP3.Form1.resources
+D:\YDJ\Development\Software Develop\MP3Player(winmm.dll)\MP3_v1.2\MP3\obj\Debug\MP3.Properties.Resources.resources
+D:\YDJ\Development\Software Develop\MP3Player(winmm.dll)\MP3_v1.2\MP3\obj\Debug\MP3.csproj.GenerateResource.cache
+D:\YDJ\Development\Software Develop\MP3Player(winmm.dll)\MP3_v1.2\MP3\obj\Debug\MP3.csproj.CoreCompileInputs.cache
+D:\YDJ\Development\Software Develop\MP3Player(winmm.dll)\MP3_v1.2\MP3\obj\Debug\MP3.exe
+D:\YDJ\Development\Software Develop\MP3Player(winmm.dll)\MP3_v1.2\MP3\obj\Debug\MP3.pdb
+C:\Users\김민석\Desktop\MP3_v1.2\MP3\bin\Debug\MP3.exe.config
+C:\Users\김민석\Desktop\MP3_v1.2\MP3\bin\Debug\MP3.exe
+C:\Users\김민석\Desktop\MP3_v1.2\MP3\bin\Debug\MP3.pdb
+C:\Users\김민석\Desktop\MP3_v1.2\MP3\obj\Debug\MP3.csproj.AssemblyReference.cache
+C:\Users\김민석\Desktop\MP3_v1.2\MP3\obj\Debug\MP3.Form1.resources
+C:\Users\김민석\Desktop\MP3_v1.2\MP3\obj\Debug\MP3.Properties.Resources.resources
+C:\Users\김민석\Desktop\MP3_v1.2\MP3\obj\Debug\MP3.csproj.GenerateResource.cache
+C:\Users\김민석\Desktop\MP3_v1.2\MP3\obj\Debug\MP3.csproj.CoreCompileInputs.cache
+C:\Users\김민석\Desktop\MP3_v1.2\MP3\obj\Debug\MP3.exe
+C:\Users\김민석\Desktop\MP3_v1.2\MP3\obj\Debug\MP3.pdb
